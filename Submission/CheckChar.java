@@ -14,9 +14,9 @@ public class CheckChar {
 	public static void checkAlphabet(char c)
 	{
 		if((c>=97 && c<=122)||(c>=65 && c<=90))
-				{
-					System.out.println("It is an alphabet");
-				}
+		{
+			System.out.println("It is an alphabet");
+		}
 		else
 		{
 			System.out.println("Not an alphabet");
